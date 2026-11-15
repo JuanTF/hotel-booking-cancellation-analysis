@@ -1,0 +1,11 @@
+# Dependencias del notebook; entorno no bloqueado ni reentrenado en esta edición.
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn>=1.2
+xgboost
+joblib
+graphviz
+jupyterlab
